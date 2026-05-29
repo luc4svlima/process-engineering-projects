@@ -27,7 +27,7 @@ Experimental phase-equilibrium data, model validation and research activities de
 
 ***Process Simulation***
 
-Thermodynamic modeling, property method selection, phase equilibrium and process simulation
+Thermodynamic modeling by Aspen Plus, property method selection, phase equilibrium and process simulation
 
 **Process Design & Control** 
 
