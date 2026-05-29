@@ -2,11 +2,11 @@
 
 Chemical Engineering student focused on Process Simulation and Control, Thermodynamics Modeling and Data-Driven Engineering.
 I'm bulding the skills required to transform process data into engineering decisions.
+----------------------------------------------------------------------------------------------------------------------------
+## Why these topics ? 
 
+----------------------------------------------------------------------------------------------------------------------------
 ## Repository Structure 
-
-### Engineering Development Roadmap   
-Explains how simulation, control systems, coomputacional tools and sustainability topics support my development as a process engineer
 
 ### Research & Experimental Thermodynamics
 Experimental phase-equilibrium data, model validation and research activities developed at UERJ ( Universidade do Estado do Rio de Janeiro )
