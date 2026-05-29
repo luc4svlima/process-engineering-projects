@@ -1,7 +1,6 @@
 # Process Engineering Portfolio
 
-Chemical Engineering student focused on Process Simulation and Control, Thermodynamics Modeling and Data-Driven Engineering.
-I'm bulding the skills required to transform process data into engineering decisions.
+Chemical Engineering student focused on Process Simulation and Control, Thermodynamics Modeling and Data-Driven Engineering to transform process data into engineering decisions.
 ----------------------------------------------------------------------------------------------------------------------------
 ## Why these topics ? 
 
