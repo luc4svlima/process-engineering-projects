@@ -21,7 +21,8 @@ This portfolio documents that my development.
 ----------------------------------------------------------------------------------------------------------------------------
 ## Repository Structure 
 
-###Research & Experimental Thermodynamics
+***Research & Experimental Thermodynamics***
+
 Experimental phase-equilibrium data, model validation and research activities developed at UERJ ( Universidade do Estado do Rio de Janeiro )
 
 ###Process Simulation
