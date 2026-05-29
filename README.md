@@ -5,7 +5,7 @@ Chemical Engineering student focused on Process Simulation and Control, Thermody
 ----------------------------------------------------------------------------------------------------------------------------
 ## Why these topics ? 
 
-My goal is to understand how physical phenomena become engineering decisions. For thay, I study...
+My goal is to understand how physical phenomena become engineering decisions. For that, I study...
 
 Thermodynamics and experimental data to understand process behavior and validade models;
 
