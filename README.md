@@ -7,16 +7,16 @@ Chemical Engineering student focused on Process Simulation and Control, Thermody
 
 My goal is to understand how physical phenomena become engineering decisions. To achieve that, I study:
 
-- Thermodynamics and experimental data to understand process behavior and validade models;
+- Thermodynamics and experimental data to understand process behavior and validate models;
 
 - Process simulation to evaluate systems, analyze performance and explore improvementes before implementation;
 
 - Process control to undertand how industrial systems operate in real-world conditions;
 
-- Computacinal tools and AI to automate analysis, accelerate engineering workflows and support decidion-making;
+- Computational tools and AI to automate analysis, accelerate engineering workflows and support decidion-making;
 
 
-This portfolio documents that my development.
+This portfolio documents my development.
 
 ----------------------------------------------------------------------------------------------------------------------------
 ## Repository Structure 
