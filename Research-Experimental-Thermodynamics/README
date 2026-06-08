@@ -1,1 +1,20 @@
+Objective
+Experimental VLE study for the water–ethanol system.
 
+Workflow
+Experimental measurements
+→ Calibration
+→ Composition estimation
+→ NRTL regression
+→ Aspen validation
+→ Python implementation
+
+Main Engineering Challenge
+The original calibration curve did not cover ethanol-rich mixtures, requiring a literature-based recalibration.
+
+Key Skills
+• Experimental Thermodynamics
+• Aspen Plus
+• NRTL Regression
+• Data Validation
+• Python (ongoing)
