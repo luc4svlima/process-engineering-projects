@@ -1,20 +1,6 @@
-# Objective
-Experimental VLE study for the water–ethanol system.
+# Vapor-Liquid Equilibrium of Water-Ethanol System using Peng-Robinson EOS
 
-# Workflow
-Experimental measurements
-→ Calibration
-→ Composition estimation
-→ NRTL regression
-→ Aspen validation
-→ Python implementation
+This project investigates vapor-liquid equilibrium (VLE) behavior of the water-ethanol system at atmospheric pressure.
 
-# Main Engineering Challenge
-The original calibration curve did not cover ethanol-rich mixtures, requiring a literature-based recalibration.
-
-# Key Skills
-• Experimental Thermodynamics
-• Aspen Plus
-• NRTL Regression
-• Data Validation
-• Python (ongoing)
+Experimental data were compared with literature values and with thermodynamic predictions obtained using the Peng-Robinson equation of state.
+The influence of the binary interaction parameter (kij) was evaluated through sensitivity analysis.
