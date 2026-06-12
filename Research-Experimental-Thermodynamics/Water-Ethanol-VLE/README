@@ -1,8 +1,10 @@
 # Vapor-Liquid Equilibrium of Water-Ethanol System using Peng-Robinson EOS
 
 Understanding vapor-liquid equilibrium is fundamental for separation processes such as distillation.
-
 This study aims to evaluate how well the Peng-Robinson equation of state reproduces experimental VLE behavior for a strongly non-ideal system.
-
 Experimental data were compared with literature values and with thermodynamic predictions obtained using the Peng-Robinson equation of state.
 The influence of the binary interaction parameter (kij) was evaluated through sensitivity analysis.
+
+ORIENTAÇÕES:
+1.Validacao_codigo_Literatura : Usei dados da literatura para avalidar meu código em python, fiz isso porque tenho poucos dados experimentais e na literatura indicada pelo professor 
+consegui uma fonta mais abundante. 
