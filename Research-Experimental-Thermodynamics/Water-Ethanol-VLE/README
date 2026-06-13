@@ -8,3 +8,4 @@ The influence of the binary interaction parameter (kij) was evaluated through se
 ORIENTAÇÕES:
 1.Validacao_codigo_Literatura : Usei dados da literatura para avalidar meu código em python, fiz isso porque tenho poucos dados experimentais e na literatura indicada pelo professor 
 consegui uma fonta mais abundante. 
+2.Comparacao_LiteraturavsExperimental : Fiz uma comparação entre os pontos experimentais e da literatura para supor possíveis diferenças, desde o ambiente até falhas na execução
