@@ -1,1 +1,15 @@
 
+Instead of relying only on theoretical or textbook-based models, the focus here is on working with real experimental data obtained in 
+laboratory environments and using them to understand, validate and improve thermodynamic descriptions of chemical systems.
+
+# Current projects
+Vapor-Liquid Equilibrium: Water–Ethanol system
+Liquid-Liquid Equilibrium: Binary systems
+Thermodynamic parameter estimation studies
+
+Neste espaço busco demonstrar aquilo que absorvi durante a disciplina de Termodinâmica Experimental ministrada pelo professor Pedro H. R. Alijó
+A disciplina me permitiu passar por 6 experimentos, mas vamos nos concentrar em apenas 3:
+
+1. Calibração : Desenvolver a curva de calibração a partir de dados experimentais, e então, obter a composição da mistura Líquido-Vapor 
+2. Equilíbrio Líquido-Vapor : A partir da curva de calibração obtida, desenvolver uma modelagem para o sistema e analisar os parâmetros obtidos 
+3. Equilíbrio Líquido-Líquido Binário : Analisar a coexistencia entre duas fases liquidas e a miscibilidade do componente 
